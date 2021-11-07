@@ -139,6 +139,11 @@ body {
   padding-top: -10px;
   text-align: left;
 }
+
+.panel-body-index { 
+  padding-top: 10px;
+  text-align: middle;
+ }
 .social {
   padding-top: 12px;
   word-spacing: 25px;
