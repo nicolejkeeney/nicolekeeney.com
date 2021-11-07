@@ -92,29 +92,6 @@ body {
   }
 }
 
-/* Index container and panel
--------------------------------------------------- */
-
-.container-index {
-  width: auto;
-  max-width: 800px;
-  text-align: center;
-  margin: 50px; 
-}
-.container-index .text-muted {
-  margin: 20px 0;
-}
-.container-index a {
-  color: #6F36F2;
-}
-.container-index a:hover {
-  color: #6F36F2;
-}
-
-.panel-body-index { 
-  padding-top: 10px;
-  text-align: center;
- }
 
 /* Custom page CSS
 -------------------------------------------------- */
@@ -160,6 +137,10 @@ body {
 .panel-default h4 a:hover, h5 a:hover {
   color: #6F36F2;
 }
+.panel-body-index { 
+  padding-top: 10px;
+  text-align: center;
+ }
 .panel{
   border-style: none;
 }
