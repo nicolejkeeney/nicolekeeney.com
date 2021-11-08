@@ -11,11 +11,11 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://nicolejkeeney.github.io/
+url: http://nicolekeeney.com
 baseurl: /nicolejkeeney.github.io/
 title: Nicole Keeney
 author: Nicole Keeney
-description: Personal blog and resume
+description: Personal website
 avatar: profile.png
 email: nicolejkeeney@gmail.com
 github: nicolejkeeney # username
