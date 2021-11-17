@@ -1,6 +1,10 @@
 # OS X
 .DS_Store
 
+# Word docs 
+/resume/*.docx
+*.docx
+
 # Jekyll build
 /_site/
 .jekyll-metadata
