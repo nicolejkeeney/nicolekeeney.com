@@ -99,11 +99,16 @@ body {
 /* Custom page CSS
 -------------------------------------------------- */
 
+.container-colored {
+  background-color: #d8e9ed;
+}
+
 .container {
   width: auto;
   max-width: 800px;
   text-align: center;
 }
+
 .container .text-muted {
   margin: 20px 0;
 }
