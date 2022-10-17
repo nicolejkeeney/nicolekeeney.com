@@ -104,11 +104,11 @@ body {
 }
 
 .narrow-column {
-  column-width: 300px;
+  column-width: 260px;
 }
 
 .wide-column {
-  column-width: 500px;
+  column-width: 540px;
 }
 
 .container-colored {
