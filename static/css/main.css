@@ -104,11 +104,20 @@ body {
 }
 
 .narrow-column {
-  column-width: 260px;
+  column-width: 300px;
 }
 
 .wide-column {
-  column-width: 540px;
+  column-width: 500px;
+}
+
+@media screen and (max-width: 600px) {
+  .wide-column {
+    width: 100%;
+  }
+  .narrow-column {
+    width: 100%;
+  }
 }
 
 .container-colored {
