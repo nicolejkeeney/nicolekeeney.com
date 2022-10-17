@@ -103,9 +103,12 @@ body {
   display: flex;
 }
 
-.column {
-  flex: 50%;
-  padding: 10px;
+.narrow-column {
+  column-width: 300px;
+}
+
+.wide-column {
+  column-width: 500px;
 }
 
 .container-colored {
